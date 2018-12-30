@@ -1,0 +1,20 @@
+09 21 / build init() ,add(), main(), commit()  index file /
+next problem   \n? chomp?
+
+09 22-09 25 / researching in git , how it's work! and have a small vacation
+
+09 26 / modified most function /
+next problem   should judge change in add rather commit
+
+09 27 / adjust most function and structure, complete_the subset0 functionality with run and test /
+next problem   begin subset1
+
+09 28 / begin with subset 1 build rm function /
+next problem    rm function not workwell and the error handle stiation is comlex
+
+09 29 / build status function rebuild rm function to using according status/
+next problem    rm function cause the need of re build commiting progress
+
+09 30 / adding delete stage to commit progess,handling using unix rm then add pogress /
+next problem
+10 01-03 / writing test and re debug  and check command 
